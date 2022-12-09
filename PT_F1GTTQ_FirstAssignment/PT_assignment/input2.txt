@@ -1,0 +1,15 @@
+3
+Service 1500
+Property
+Lucky 1000
+3
+Farid Tactical
+Farzali Greedy
+Kanan Careful
+5
+2
+3
+6
+4
+1
+2
